@@ -25,6 +25,9 @@
 
 ## Introduction
 Data Structures and Algorithms (DSA) form the foundation of computer science. Mastering DSA is essential for solving complex problems efficiently.
+also when starting first npx tsc --init to create a tsconfig file
+npx ts-node dsa/test.ts (to run it directly compile+run )
+npx tsc dsa/test.ts only for compiling it to raw js
 
 ---
 
